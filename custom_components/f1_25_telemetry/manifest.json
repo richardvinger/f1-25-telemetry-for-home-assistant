@@ -6,6 +6,7 @@
   ],
   "config_flow": true,
   "documentation": "https://github.com/richardvinger/f1-25-telemetry-for-home-assistant",
+  "issue_tracker": "https://github.com/richardvinger/f1-25-telemetry-for-home-assistant/issues",
   "integration_type": "service",
   "iot_class": "local_push",
   "version": "1.0.0",
