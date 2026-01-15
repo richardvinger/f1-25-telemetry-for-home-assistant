@@ -1,0 +1,10 @@
+*.pdf
+*.txt
+*.pcap
+*.zip
+*.pyc
+verify_parser.py
+analyze_pcap.py
+.DS_Store
+__pycache__
+translations

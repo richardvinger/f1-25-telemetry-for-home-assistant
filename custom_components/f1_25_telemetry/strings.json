@@ -1,0 +1,30 @@
+{
+    "title": "F1 25 Telemetry",
+    "config": {
+        "step": {
+            "user": {
+                "title": "F1 25 Telemetry Configuration",
+                "description": "Set the UDP port to listen to, and optionally add forwarding settings.",
+                "data": {
+                    "port": "Local UDP Port (game default is 20777)",
+                    "forward_enabled": "Enable UDP Forwarding (re-transmit raw packets to another device)",
+                    "forward_ip": "Destination IP",
+                    "forward_port": "Destination Port"
+                }
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "title": "F1 25 Telemetry Configuration",
+                "data": {
+                    "port": "Local UDP Port (game default is 20777)",
+                    "forward_enabled": "Enable UDP Forwarding",
+                    "forward_ip": "Destination IP",
+                    "forward_port": "Destination Port"
+                }
+            }
+        }
+    }
+}
