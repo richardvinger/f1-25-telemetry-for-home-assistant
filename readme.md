@@ -1,6 +1,6 @@
 # F1 25 Telemetry for Home Assistant
 
-A high-performance custom integration for Home Assistant that brings real-time telemetry from EA Sports' **F1 25** directly into your smart home.
+A high-performance custom integration for Home Assistant that brings real-time telemetry from EA Sports' **F1 25** directly into your smarthome.
 
 ## 💡 What is this for?
 
