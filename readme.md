@@ -19,12 +19,12 @@ A high-performance custom integration for Home Assistant that brings real-time t
 
 ## 🚀 Installation
 
-### HACS support is forthcoming
-<del>1. In HACS, go to **Integrations** and click the three dots in the top-right corner.</del>
-<del>2. Select **Custom repositories**.</del>
-<del>3. Paste the URL of this repository and select **Integration** as the category.</del>
-<del>4. Click **Add** and then **Download**.</del> 
-<del>5. Restart Home Assistant.</del>
+### HACS (Recommended)
+1. In HACS, go to **Integrations** and click the three dots in the top-right corner.
+2. Select **Custom repositories**.
+3. Paste the URL of this repository and select **Integration** as the category.
+4. Click **Add** and then **Download**.
+5. Restart Home Assistant.
 
 ### Manual
 1. Copy the `custom_components/f1_25_telemetry` folder to your Home Assistant `config/custom_components/` directory.
